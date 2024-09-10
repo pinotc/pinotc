@@ -6,18 +6,18 @@ I'm Le Dat. Here's a bit about me and my work.
 ---
 
 🌐 **Socials**  
-[LinkedIn](https://www.linkedin.com/in/le-dat-907b59226/) | [Facebook](facebook.com/ledat.pino)
+[LinkedIn](#) | [Facebook](#)
 
 ---
 
 💻 **Tech Stack**  
 
-**Languages & Frameworks** 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)
+**Languages & Frameworks**  
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp) 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
@@ -43,5 +43,10 @@ I'm Le Dat. Here's a bit about me and my work.
 
 ---
 
-📊 **GitHub Stats**  
-![Le Dat's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinotc&show_icons=true&theme=radical)
+📊 **GitHub Stats**
+
+![Le Dat's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Le Dat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinotc&layout=compact&theme=radical)
