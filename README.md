@@ -45,8 +45,8 @@ I'm Le Dat. Here's a bit about me and my work.
 
 📊 **GitHub Stats**
 
-![Le Dat's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Le Dat's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinotc&show_icons=true&theme=radical)
 
-![Le Dat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Le Dat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pinotc&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinotc&layout=compact&theme=radical)
