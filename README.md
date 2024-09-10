@@ -12,7 +12,8 @@ I'm Le Dat. Here's a bit about me and my work.
 
 💻 **Tech Stack**  
 
-**Languages & Frameworks**  
+**Languages & Frameworks** 
+![Java]([https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5)) 
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp) 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
