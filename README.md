@@ -49,8 +49,23 @@ I'm Le Dat. Here's a bit about me and my work.
 
 ## 📊 GitHub Stats
 
-![Le Dat's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinotc&show_icons=true&theme=radical)
+<!-- GitHub Stats Card -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pinotc&show_icons=true&theme=radical" />
+</a>
 
-![Le Dat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pinotc&theme=radical)
+<!-- GitHub Streak Stats Card -->
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pinotc&theme=radical" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinotc&layout=compact&theme=radical)
+<!-- Top Languages Card -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinotc&layout=compact&theme=radical" />
+</a>
+
+<!-- WakaTime Stats Card -->
+<a href="https://wakatime.com/@8cead98e-47fd-4d7c-9050-dead25b9faf1">
+  <img align="left" src="https://wakatime.com/badge/user/yourwakatimeusername.svg" />
+</a>
+
