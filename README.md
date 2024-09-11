@@ -64,7 +64,3 @@ I'm Le Dat. Here's a bit about me and my work.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinotc&layout=compact&theme=radical" />
 </a>
 
-<!-- WakaTime Stats Card -->
-<a href="https://wakatime.com/@pino4work">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=pino4work&theme=radical" />
-</a>
