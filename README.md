@@ -49,7 +49,7 @@ I'm Le Dat. Here's a bit about me and my work.
 
 ## 📊 GitHub Stats
 
-<table>
+<table style="border-spacing: 20px;">
   <tr>
     <td>
       <!-- GitHub Stats Card -->
@@ -79,5 +79,6 @@ I'm Le Dat. Here's a bit about me and my work.
     </td>
   </tr>
 </table>
+
 
 
