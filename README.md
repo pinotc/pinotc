@@ -64,7 +64,19 @@ I'm Le Dat. Here's a bit about me and my work.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinotc&layout=compact&theme=radical" />
 </a>
 
-<!-- Profile Views Counter -->
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=pinotc" alt="Profile views" />
+<!-- Contributions in the Last Year Card -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=radical" />
 </a>
+
+<!-- GitHub Trophies Card -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical" />
+</a>
+
+<!-- Top Repositories Card -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repositoryname&theme=radical" />
+</a>
+
+
