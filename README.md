@@ -5,12 +5,14 @@ I'm Le Dat. Here's a bit about me and my work.
 
 ---
 
-🌐 **Socials**  
-[LinkedIn](#) | [Facebook]('facebook.com/ledat.pino')
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/le-dat-907b59226/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ledat.pino)
 
 ---
 
-💻 **Tech Stack**  
+## 💻 Tech Stack
 
 **Languages & Frameworks**  
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp) 
@@ -43,7 +45,7 @@ I'm Le Dat. Here's a bit about me and my work.
 
 ---
 
-📊 **GitHub Stats**
+## 📊 GitHub Stats
 
 ![Le Dat's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinotc&show_icons=true&theme=radical)
 
