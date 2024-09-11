@@ -64,3 +64,7 @@ I'm Le Dat. Here's a bit about me and my work.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinotc&layout=compact&theme=radical" />
 </a>
 
+<!-- Profile Views Counter -->
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=pinotc" alt="Profile views" />
+</a>
