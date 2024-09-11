@@ -72,10 +72,10 @@ I'm Le Dat. Here's a bit about me and my work.
       </a>
     </td>
     <td>
-      <!-- GitHub Trophies Card -->
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=pinotc&theme=radical" />
-      </a>
+    <!-- Contributions in the Last Year Card -->
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img align="left" src="https://activity-graph.herokuapp.com/graph?username=pinotc&theme=radical" />
+    </a>
     </td>
   </tr>
 </table>
