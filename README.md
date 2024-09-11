@@ -72,9 +72,9 @@ I'm Le Dat. Here's a bit about me and my work.
       </a>
     </td>
     <td>
-    <!-- Contributions in the Last Year Card -->
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img align="left" src="https://activity-graph.herokuapp.com/graph?username=pinotc&theme=radical" />
+    <!-- Top Repositories Card -->
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=pinotc&repo=repositoryname&theme=radical" />
     </a>
     </td>
   </tr>
