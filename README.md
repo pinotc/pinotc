@@ -66,6 +66,5 @@ I'm Le Dat. Here's a bit about me and my work.
 
 <!-- WakaTime Stats Card -->
 <a href="https://wakatime.com/@pino4work">
-  <img align="left" src="https://wakatime.com/badge/user/8cead98e-47fd-4d7c-9050-dead25b9faf1.svg" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=pino4work&theme=radical" />
 </a>
-
