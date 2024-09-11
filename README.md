@@ -72,10 +72,10 @@ I'm Le Dat. Here's a bit about me and my work.
       </a>
     </td>
     <td>
-    <!-- Custom GitHub Stats Card -->
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=pinotc&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=prs,issues" />
-    </a>
+      <!-- WakaTime Stats Card -->
+      <a href="https://wakatime.com/@yourwakatimeusername">
+        <img src="https://camo.githubusercontent.com/b09e46569e3a6c148324702a479eb94404658161d815d62a1dad41d0496bed4d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d686c6f6e676461792673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d6461726b266c616e67735f636f756e743d313026636f756e745f707269766174653d74727565" />
+      </a>
     </td>
   </tr>
 </table>
