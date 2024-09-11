@@ -49,25 +49,35 @@ I'm Le Dat. Here's a bit about me and my work.
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats Card -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pinotc&show_icons=true&theme=radical" />
-</a>
-
-<!-- GitHub Streak Stats Card -->
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pinotc&theme=radical" />
-</a>
-
-<!-- Top Languages Card -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinotc&layout=compact&theme=radical" />
-</a>
-
-<!-- GitHub Trophies Card -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=pinotc&theme=radical" />
-</a>
-
+<table>
+  <tr>
+    <td>
+      <!-- GitHub Stats Card -->
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=pinotc&show_icons=true&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <!-- GitHub Streak Stats Card -->
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinotc&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!-- Top Languages Card -->
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinotc&layout=compact&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <!-- GitHub Trophies Card -->
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=pinotc&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
