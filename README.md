@@ -6,7 +6,7 @@ I'm Le Dat. Here's a bit about me and my work.
 ---
 
 🌐 **Socials**  
-[LinkedIn](#) | [Facebook](facebook.com/ledat.pino)
+[LinkedIn](#) | [Facebook]('facebook.com/ledat.pino')
 
 ---
 
