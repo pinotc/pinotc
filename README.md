@@ -72,9 +72,9 @@ I'm Le Dat. Here's a bit about me and my work.
       </a>
     </td>
     <td>
-    <!-- Top Repositories Card -->
+    <!-- Custom GitHub Stats Card -->
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=pinotc&repo=repositoryname&theme=radical" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=pinotc&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=prs,issues" />
     </a>
     </td>
   </tr>
