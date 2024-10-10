@@ -51,13 +51,13 @@ I'm Le Dat. Here's a bit about me and my work.
   <tr>
     <td>
       <!-- GitHub Stats Card -->
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github-readme-stats.vercel.app/api?username=pinotc&show_icons=true&theme=radical">
         <img src="https://github-readme-stats.vercel.app/api?username=pinotc&show_icons=true&theme=radical" />
       </a>
     </td>
     <td>
       <!-- GitHub Streak Stats Card -->
-      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <a href="https://github-readme-streak-stats.herokuapp.com/?user=pinotc&theme=radical">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinotc&theme=radical" />
       </a>
     </td>
@@ -65,7 +65,7 @@ I'm Le Dat. Here's a bit about me and my work.
   <tr>
     <td>
       <!-- Top Languages Card -->
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pinotc&layout=compact&theme=radical">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinotc&layout=compact&theme=radical" />
       </a>
     </td>
