@@ -57,8 +57,8 @@ I'm Le Dat. Here's a bit about me and my work.
     </td>
     <td>
       <!-- Top Languages Card -->
-      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pinotc&layout=compact&theme=radical">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinotc&layout=compact&theme=radical" />
+      <a href="https://streak-stats.demolab.com/?user=pinotc&theme=radical">
+        <img src="https://streak-stats.demolab.com/?user=pinotc&theme=radical" />
       </a>
     </td>
   </tr>
