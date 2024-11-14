@@ -56,17 +56,17 @@ I'm Le Dat. Here's a bit about me and my work.
       </a>
     </td>
     <td>
-      <!-- GitHub Streak Stats Card -->
-      <a href="https://github-readme-streak-stats.herokuapp.com/?user=pinotc&theme=radical">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinotc&theme=radical" />
+      <!-- Top Languages Card -->
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pinotc&layout=compact&theme=radical">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinotc&layout=compact&theme=radical" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <!-- Top Languages Card -->
-      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pinotc&layout=compact&theme=radical">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinotc&layout=compact&theme=radical" />
+       <!-- Developer Power Meter -->
+      <a href="https://stats.hyo.dev/api/github-stats-advanced?login=pinotc&theme=radical">
+        <img src="https://stats.hyo.dev/api/github-stats-advanced?login=pinotc&theme=radical" />
       </a>
     </td>
     <td>
