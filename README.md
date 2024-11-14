@@ -65,14 +65,14 @@ I'm Le Dat. Here's a bit about me and my work.
   <tr>
     <td>
        <!-- Developer Power Meter -->
-      <a href="https://stats.hyo.dev/api/github-stats-advanced?login=pinotc&theme=radical">
-        <img src="https://stats.hyo.dev/api/github-stats-advanced?login=pinotc&theme=radical" />
+      <a href="https://stats.hyo.dev/api/github-stats-advanced?login=pinotc">
+        <img src="https://stats.hyo.dev/api/github-stats-advanced?login=pinotc" />
       </a>
     </td>
     <td>
-    <!-- WakaTime Stats Card -->
-    <a href="https://wakatime.com/@pino4work">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=pino4work&theme=radical" />
+    <!-- Jovan's GitHub stats -->
+    <a href="https://gh-stats-card.vercel.app/api/pinotc">
+      <img src="https://gh-stats-card.vercel.app/api/pinotc" />
     </a>
     </td>
   </tr>
