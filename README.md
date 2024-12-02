@@ -51,14 +51,14 @@ I'm Le Dat. Here's a bit about me and my work.
   <tr>
     <td>
       <!-- GitHub Stats Card -->
-      <a href="https://github-readme-stats.vercel.app/api?username=pinotc&show_icons=true&theme=radical">
-        <img src="https://github-readme-stats.vercel.app/api?username=pinotc&show_icons=true&theme=radical" />
+      <a href="https://github-readme-stats.vercel.app/api/wakatime?username=pino4work&theme=dark&hide=text,git,other,xml&langs_count=5&custom_title=LeDat%27s%20WakaTime%20Stats">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pino4work&theme=dark&hide=text,git,other,xml&langs_count=5&custom_title=LeDat%27s%20WakaTime%20Stats" />
       </a>
     </td>
     <td>
       <!-- Top Languages Card -->
-      <a href="https://streak-stats.demolab.com/?user=pinotc&theme=radical">
-        <img src="https://streak-stats.demolab.com/?user=pinotc&theme=radical" />
+      <a href="https://streak-stats.demolab.com/?user=pinotc&theme=dark">
+        <img src="https://streak-stats.demolab.com/?user=pinotc&theme=dark" />
       </a>
     </td>
   </tr>
