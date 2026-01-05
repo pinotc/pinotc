@@ -47,36 +47,12 @@ I'm Le Dat. Here's a bit about me and my work.
 
 ## 📊 GitHub Stats
 
-<table style="border-spacing: 20px;">
-  <tr>
-    <td>
-      <!-- GitHub Stats Card 
-      <a href="https://github-readme-stats.vercel.app/api/wakatime?username=pino4work&theme=dark&hide=text,git,other,xml&langs_count=5&custom_title=LeDat%27s%20WakaTime%20Stats">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pino4work&theme=dark&hide=text,git,other,xml&langs_count=5&custom_title=LeDat%27s%20WakaTime%20Stats" />
-      </a>
-    </td>
-    <td>
-      <!-- Top Languages Card 
-      <a href="https://streak-stats.demolab.com/?user=pinotc&theme=dark">
-        <img src="https://streak-stats.demolab.com/?user=pinotc&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td> -->
-       <!-- Developer Power Meter -->
-      <a href="https://stats.hyo.dev/api/github-stats-advanced?login=pinotc">
-        <img src="https://stats.hyo.dev/api/github-stats-advanced?login=pinotc" />
-      </a>
-    </td>
-    <td>
-    <!-- Jovan's GitHub stats -->
-    <a href="https://gh-stats-card.vercel.app/api/pinotc">
-      <img src="https://gh-stats-card.vercel.app/api/pinotc" />
-    </a>
-    </td>
-  </tr>
-</table>
-
-
-
+<p align="center">
+  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=pinotc" 
+       style="border: 1px solid var(--color-border-default, #d0d7de); border-radius: 6px; padding: 8px; background-color: var(--color-canvas-default, #ffffff);"
+       height="150" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://gh-stats-card.vercel.app/api/pinotc" 
+       style="border: 1px solid var(--color-border-default, #d0d7de); border-radius: 6px; padding: 8px; background-color: var(--color-canvas-default, #ffffff);"
+       height="150" />
+</p>
