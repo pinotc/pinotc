@@ -50,20 +50,20 @@ I'm Le Dat. Here's a bit about me and my work.
 <table style="border-spacing: 20px;">
   <tr>
     <td>
-      <!-- GitHub Stats Card -->
+      <!-- GitHub Stats Card 
       <a href="https://github-readme-stats.vercel.app/api/wakatime?username=pino4work&theme=dark&hide=text,git,other,xml&langs_count=5&custom_title=LeDat%27s%20WakaTime%20Stats">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pino4work&theme=dark&hide=text,git,other,xml&langs_count=5&custom_title=LeDat%27s%20WakaTime%20Stats" />
       </a>
     </td>
     <td>
-      <!-- Top Languages Card -->
+      <!-- Top Languages Card 
       <a href="https://streak-stats.demolab.com/?user=pinotc&theme=dark">
         <img src="https://streak-stats.demolab.com/?user=pinotc&theme=dark" />
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td> -->
        <!-- Developer Power Meter -->
       <a href="https://stats.hyo.dev/api/github-stats-advanced?login=pinotc">
         <img src="https://stats.hyo.dev/api/github-stats-advanced?login=pinotc" />
