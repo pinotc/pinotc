@@ -8,7 +8,6 @@ I'm Le Dat. Here's a bit about me and my work.
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ledat-pino/)
-[![Pixieset](https://img.shields.io/badge/Pixieset-%23000000?style=flat&logo=pixieset&logoColor=white)](https://pino99.mypixieset.com/)
 
 ---
 
