@@ -14,13 +14,13 @@ I'm Le Dat. Here's a bit about me and my work.
 ## 💻 Tech Stack
 
 **Languages & Frameworks**  
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp) 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=239120)
+![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
-![Next.JS](https://img.shields.io/badge/-nextjs-05122A?style=flat&logo=nextjs)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD0031)
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs&logoColor=FFFFFF)
 
 **Databases**  
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) 
