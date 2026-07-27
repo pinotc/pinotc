@@ -20,6 +20,7 @@ I'm Le Dat. Here's a bit about me and my work.
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
+![Next.JS](https://img.shields.io/badge/-nextjs-05122A?style=flat&logo=nextjs)
 
 **Databases**  
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) 
